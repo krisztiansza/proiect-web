@@ -1,3 +1,5 @@
 # Proiect Web — Szabo Krisztian
 
-Tema proiectului
+## Mediu de lucru
+
+-
